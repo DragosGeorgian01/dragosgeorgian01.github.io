@@ -53,6 +53,7 @@ section {
 
 .img-fluid {
 max-height: 300px;
+max-width: 100%;
 }
 
 .section-header {
