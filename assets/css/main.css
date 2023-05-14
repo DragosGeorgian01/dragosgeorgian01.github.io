@@ -51,6 +51,10 @@ section {
   overflow: hidden;
 }
 
+.img-fluid {
+max-height: 300px;
+}
+
 .section-header {
   border-bottom: 2px solid var(--color-black);
 }
